@@ -1,0 +1,13 @@
+python-nmap
+scapy
+requests
+fpdf
+whois
+dnspython
+vulners
+msfrpc
+beautifulsoup4
+shodan
+netaddr
+paramiko
+pyyaml
