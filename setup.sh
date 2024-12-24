@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Your Name
+# Author: Ravindhar V
 # Description: Script to set up the PenTest Tool environment on Linux (Ubuntu/Debian)
 
 echo "=============================="
